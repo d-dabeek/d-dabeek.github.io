@@ -10,6 +10,7 @@ h1
 }
 h2
 {
+	 font-size:1.7vw;
 	color :SlateBlue;
 	 margin: 1px;
 }
@@ -18,7 +19,7 @@ h2
   border: 5px solid gray;
   background-color: lightblue;  
    font-family: courier;
-
+ font-size:1.7vw;
 }
 p{
 	color:black;
