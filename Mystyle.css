@@ -22,14 +22,18 @@ h2
    font-family: courier;
  font-size:1.7vw;
 }
+
 p{
 	color:black;
 	 margin: 5px;
 	 font-size:1.7vw;
 
 }
+
 ul
 {	
+display: inline-block; 
+text-align: center;
 margin: 5px;	
 font-size:1.7vw;
 }
