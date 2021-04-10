@@ -1,0 +1,36 @@
+body 
+{
+  text-align: center;
+   background-color: rgb(220, 220, 220);
+}
+h1
+{
+  color: slateblue;
+  font-size:300%;
+  font-size:3.75vw;
+}
+h2
+{
+	color :SlateBlue;
+	 margin: 1px;
+        font-size:1.9vw;
+}
+.myDiv 
+{
+  border: 5px solid gray;
+  background-color: #b6b4d2;  
+   font-family: courier;
+ font-size:1.7vw;
+}
+p{
+	color:black;
+	 margin: 5px;
+	 font-size:1.7vw;
+
+}
+ul
+{	
+display: inline-block; 
+margin: 5px;	
+font-size:1.7vw;
+}
